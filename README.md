@@ -141,4 +141,3 @@ Este exercício tem como objetivo demonstrar o uso de **parágrafos**, **quebras
 
 ---
 
-########################################################################################################
