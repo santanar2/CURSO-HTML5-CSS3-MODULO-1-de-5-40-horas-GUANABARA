@@ -31,6 +31,15 @@ Mostra exemplos de listas mistas e aninhadas, combinando listas ordenadas, não 
 
 Este arquivo é útil para visualizar como diferentes tipos de listas podem ser combinados em uma mesma página.
 
+### listas mistas definição.html
+
+Apresenta exemplos de:
+- Listas ordenadas e não ordenadas
+- Listas mistas (listas dentro de listas)
+- Listas de definições para explicar termos técnicos
+
+Ideal para entender como estruturar listas complexas e utilizar diferentes tipos de marcação em HTML.
+
 ## Como visualizar
 
 Abra os arquivos `.html` em seu navegador para ver o resultado das listas com diferentes estilos de marcadores e estruturas.
